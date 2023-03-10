@@ -16,7 +16,7 @@
 3. Verify the app is shown in below url and set it as the base url for the tests.
 `http://localhost:3100`
 
-4. Clone this repository, create a branch and develop your tests following bellow guidances/requisites.
+4. Fork this repository and develop your tests following bellow guidances/requisites.
 
 5. When finished open a Pull Request for Code Review.
 
